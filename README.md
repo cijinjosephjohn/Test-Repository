@@ -1,2 +1,2 @@
 # Test-Repository
-Repository which hold study materials and POC related testing 
+This is testing repository with helps to test git commands and also help to test/learn many other programming languages
