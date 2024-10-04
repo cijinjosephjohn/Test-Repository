@@ -8,4 +8,4 @@ result = num1+num2
 
 print(f"num : {num1} + num : {num2} =",end=" ")
 print(f"result : {result}") 
-print("version 1 ")
+print("version 2 ")
